@@ -1,0 +1,5 @@
+
+image_id,bedrooms,bathrooms,sqft,lot_size,year_built,neighborhood,house_type,price
+house_0001.jpg,4,4.0,2168,1823,1998,Riverside,Duplex,526300
+house_0002.jpg,5,2.0,1556,1928,1994,Riverside,Single Family,369800
+house_0003.jpg,3,3.5,3338,6029,1976,Hillcrest,Townhouse,663100
