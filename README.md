@@ -31,7 +31,7 @@ The dataset contains two types of inputs:
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 - Numerical features scaled using `StandardScaler`
