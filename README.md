@@ -16,7 +16,7 @@ This allows the model to learn both numerical patterns and visual characteristic
 
 The dataset contains two types of inputs:
 
-### 🧾 Tabular Data Features
+### Tabular Data Features
 - bedrooms  
 - bathrooms  
 - sqft  
@@ -25,7 +25,7 @@ The dataset contains two types of inputs:
 - neighborhood  
 - house_type  
 
-### 🖼️ Image Data
+### Image Data
 - Each house has a corresponding image stored in `data/images/`
 - Image paths are stored in the CSV file under `image_path`
 
@@ -96,7 +96,7 @@ The dataset contains two types of inputs:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 Housing-Multimodal-Prediction/
 │
